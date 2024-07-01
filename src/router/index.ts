@@ -3,7 +3,6 @@ import {
   createMemoryHistory,
   createRouter,
   createWebHashHistory,
-  createWebHistory,
 } from 'vue-router';
 
 import routes from './routes';
@@ -11,8 +10,6 @@ import routes from './routes';
 export default route(function () {
   const createHistory = process.env.SERVER
     ? createMemoryHistory
-    : process.env.VUE_ROUTER_MODE === 'history'
-    ? createWebHistory
     : createWebHashHistory;
 
   const Router = createRouter({
