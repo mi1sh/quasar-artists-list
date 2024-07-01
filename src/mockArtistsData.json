@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "name": "Radiohead",
+    "albums": [
+      {
+        "name": "In Rainbows",
+        "release": 2007,
+        "music": [
+          {
+            "name": "All I Need"
+          },
+          {
+            "name": "Weird Fishes"
+          }
+        ]
+      },
+      {
+        "name": "A Moon Shaped Pool",
+        "release": 2016,
+        "music": [
+          {
+            "name": "Daydreaming"
+          }
+        ]
+      },
+      {
+        "name": "OK Computer",
+        "release": 1997,
+        "music": [
+          {
+            "name": "No Surprises"
+          },
+          {
+            "name": "Paranoid Android"
+          },
+          {
+            "name": "Exit Music"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Slowdive",
+    "albums": [
+      {
+        "name": "Souvlaki",
+        "release": 1994,
+        "music": [
+          {
+            "name": "Alison"
+          },
+          {
+            "name": "Dagger"
+          }
+        ]
+      },
+      {
+        "name": "Just For A Day",
+        "release": 1991,
+        "music": [
+          {
+            "name": "Spanish Air"
+          },
+          {
+            "name": "Catch The Breeze"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Këkht Aräkh",
+    "albums": [
+      {
+        "name": "Pale Swordsman",
+        "release": 2021,
+        "music": [
+          {
+            "name": "Swordsman"
+          },
+          {
+            "name": "Lily"
+          },
+          {
+            "name": "Amor"
+          }
+        ]
+      },
+      {
+        "name": "Night & Love",
+        "release": 2019,
+        "music": [
+          {
+            "name": "As the Night Falls..."
+          },
+          {
+            "name": "Forever Night Castle of Love"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Panchiko",
+    "albums": [
+      {
+        "name": "D>E>A>T>H>M>E>T>A>L",
+        "release": 2000,
+        "music": [
+          {
+            "name": "Laputa"
+          },
+          {
+            "name": "Kicking Cars"
+          }
+        ]
+      },
+      {
+        "name": "Ferric Oxide",
+        "release": 2020,
+        "music": [
+          {
+            "name": "Gwen Everest"
+          },
+          {
+            "name": "All They Wanted"
+          },
+          {
+            "name": "Untitled Demo"
+          }
+        ]
+      },
+      {
+        "name": "Failed at Math(s)",
+        "release": 2023,
+        "music": [
+          {
+            "name": "Until I Know"
+          },
+          {
+            "name": "Portraits"
+          }
+        ]
+      }
+    ]
+  }
+]
